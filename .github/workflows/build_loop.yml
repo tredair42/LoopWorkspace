@@ -290,7 +290,7 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
           future_carbs_4h \
-          low_carb_limit \
+          #low_carb_limit \
           high_carb_limit \
           override_sens \
           now_line \
@@ -298,7 +298,7 @@ jobs:
           watch_title \
           2hlollipop \
           meal_days \
-          meal_week \
+          #meal_week \
           profiles \
           basal_lock \
           live_activity \
